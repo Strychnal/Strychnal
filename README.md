@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strychnal
 - 👀 I’m interested in ...Learning how to code and learning more about this community
-- 🌱 I’m currently learning ...bascis on codecademy pro
+- 🌱 I’m currently learning ...basics of coding on codecademy pro
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
